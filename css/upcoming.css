@@ -1,0 +1,31 @@
+#content{
+    height: 150px;
+    border: 0 solid;
+}
+
+h3{
+    text-align: center;
+    margin-top: 12px;
+}
+p{
+    text-align: center;
+    font-size: 16px;
+    
+}
+    
+
+.flag{
+    display: flex;
+}
+#side-navigation ul li:first-child{
+    background-color: red;
+}
+#side-navigation ul li:first-child a{
+    color: white;
+}
+#side-navigation ul li:last-child{
+    background-color:white
+}
+#side-navigation ul li:last-child a{
+    color: black;
+}
